@@ -4,3 +4,5 @@
 - git commit: Records staged changes to the repository history.
 - git log: Shows the commit logs and history of the current branch.
 - git branch: Lists, creates, or deletes branches in the repository.
+- git checkout: Switches branches or restores working tree files.
+- git diff: Shows changes between commits, commit and working tree, etc.
